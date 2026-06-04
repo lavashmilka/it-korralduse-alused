@@ -12,3 +12,4 @@ Selles teemas õppisin tundma IT-teenuste haldamise põhikontseptsioone. Sain te
 
 ## Näide
 Kui kontoris kaob ootamatult internetiühendus, on see *intsident*. Kui IT-osakond avastab, et serveriruumis on kaabel läbi kulunud ja see vajab vahetamist, on see *probleemi* tuvastamine ja lahendamine.
+.
